@@ -22,7 +22,7 @@ Built a compliance intelligence and evidence platform that:
 
 The platform was utilized during successful SOC 2 Type 2 certification activities and contributed to successful certification efforts. It also created a stronger foundation for ongoing compliance reporting, evidence reuse, and operational accountability.
 
-The work demonstrated multi-system evidence correlation across communications, support history, release records, GitLab activity, SLA context, and affected customer environments.
+The work enabled reconstruction of audit timelines that previously required extensive manual investigation across communications, support history, release records, GitLab activity, SLA context, and affected customer environments.
 
 ## Why It Matters
 

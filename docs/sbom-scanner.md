@@ -1,7 +1,9 @@
 # NTest SBOM Scanner
 
 **Status:** Private/proprietary source code not included  
-**Format:** Public-safe summary
+**Format:** Public-safe summary  
+**Timeline:** 2025-2026  
+**Current status:** Internal tool; original JavaFX implementation and modern Tauri/Rust direction
 
 ## Overview
 
@@ -16,6 +18,8 @@ Two related implementations exist in the private project history:
 
 SBOM and vulnerability review workflows can be difficult for non-specialists when they rely on manual command-line usage. Support and QA teams need repeatable outputs that can be reviewed, archived, and shared internally.
 
+The operational problem was limited software inventory visibility and largely manual vulnerability assessment workflows.
+
 ## Solution
 
 The tool wraps SBOM scanning workflows in a desktop interface:
@@ -25,6 +29,15 @@ The tool wraps SBOM scanning workflows in a desktop interface:
 - Export readable reports.
 - Create consistent summaries for internal review.
 - Detect or help manage required scanner dependencies.
+
+## Responsibilities
+
+- Desktop application design and implementation
+- SBOM scanner workflow integration
+- Report output design
+- Dependency detection and setup workflow design
+- Cross-platform packaging considerations
+- Documentation for internal users and developers
 
 ## Technologies
 
@@ -42,6 +55,11 @@ The tool wraps SBOM scanning workflows in a desktop interface:
 - Helped automate vulnerability reporting workflows.
 - Supported secure development lifecycle practices.
 - Made scanner outputs easier to consume by support, QA, and compliance stakeholders.
+- Improved dependency visibility and vulnerability awareness for security and compliance operations.
+
+## Why It Matters
+
+The tool turned vulnerability review from a specialist command-line task into a repeatable workflow that support, QA, and compliance stakeholders could use to produce consistent internal reports.
 
 ## Public-Safe Boundary
 

@@ -1,13 +1,17 @@
 # Compliance Intelligence & Evidence Correlation Engine
 
 **Status:** Private/proprietary source code not included  
-**Format:** Sanitized architecture overview
+**Format:** Sanitized architecture overview  
+**Timeline:** 2025-present  
+**Current status:** Active evidence workflow
 
 ## Problem
 
 Audit evidence often lives in fragments: tickets, emails, Teams messages, GitLab commits, release records, customer-impact notes, SLA versions, and support timelines. When an audit period is reviewed, those fragments need to become a coherent, explainable evidence package.
 
 Manual reconstruction is slow, error-prone, and difficult to repeat consistently.
+
+Organizations also lose operational context over time. Without a structured reconstruction process, historical events can become difficult to explain even when the relevant records still exist somewhere.
 
 ## Data Sources
 
@@ -35,6 +39,16 @@ These sources are described generically. No customer data, internal URLs, creden
 
 See: [Evidence correlation flow](../assets/diagrams/evidence-correlation-flow.md)
 
+## Responsibilities
+
+- Workflow architecture
+- Evidence-source mapping
+- Timeline reconstruction design
+- Audit package structure
+- Redaction and review safeguards
+- Documentation and report template design
+- AI-assisted research and validation planning with human review
+
 ## Output Artifacts
 
 - Timeline reconstruction
@@ -46,11 +60,16 @@ See: [Evidence correlation flow](../assets/diagrams/evidence-correlation-flow.md
 
 ## Business Impact
 
-- Reduced manual evidence reconstruction effort.
+- Enabled reconstruction of audit timelines that previously required extensive manual investigation across multiple enterprise systems.
 - Improved audit narrative consistency.
 - Developed evidence correlation workflows utilized during successful SOC 2 Type 2 certification activities.
 - Made fragmented operational history easier to review and explain.
 - Correlated evidence across multiple system categories, including communications, support records, commits, release history, SLA versions, and affected customer environments.
+- Transformed fragmented records into auditable narratives with clearer traceability and review boundaries.
+
+## Why It Matters
+
+Audit questions are rarely answered by one system. This workflow made it possible to connect support activity, communications, release history, access context, and customer-impact windows into a coherent record that reviewers could understand without exposing confidential source material.
 
 ## Privacy and Redaction Safeguards
 

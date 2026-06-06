@@ -18,6 +18,7 @@ node_modules/
 .env.*
 OPERATOR_PROFILE.md
 OPERATOR_PROFILE.md.txt
+PROJECT_AND_OPERATOR_CONTEXT.md
 secrets/
 private/
 local/

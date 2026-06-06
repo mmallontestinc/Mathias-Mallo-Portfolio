@@ -1,7 +1,9 @@
 # FiberWatch macOS Compatibility Validation
 
 **Status:** Private/proprietary source code not included  
-**Format:** Honest capability summary
+**Format:** Honest capability summary  
+**Timeline:** 2025-2026  
+**Current status:** Practical validation and support experience
 
 ## Overview
 
@@ -26,6 +28,10 @@ The workflow emphasized:
 - Creating clear notes for engineering review
 - Using AI assistance for test planning, hypothesis generation, and troubleshooting structure
 - Keeping final validation human-owned
+
+## Why It Matters
+
+Compatibility validation is not only about whether an application launches. It is about helping users remain productive, identifying reproducible issues, and giving engineering teams clear feedback without overstating the scope of Apple administration experience.
 
 ## Public-Safe Boundary
 

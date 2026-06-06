@@ -8,6 +8,8 @@ I work best where technical support, compliance, platform thinking, and practica
 
 I am not trying to present myself as a traditional software developer or a pure helpdesk technician. My strength is operating between operations, compliance, security, infrastructure, automation, and engineering.
 
+I am an operations-focused professional who learned software engineering to solve operational problems. That distinction matters: the value of the projects in this portfolio is measured by operational outcomes, audit readiness, reduced friction, and better support workflows.
+
 ## Professional Context
 
 My path connects Uruguay, Spain, IT operations, technical support, compliance operations, and platform building. That background shaped the way I work: close to real users and real operational pressure, but with enough engineering depth to build internal tools when manual process becomes a bottleneck.
@@ -33,6 +35,8 @@ The projects in this portfolio come from real operational and compliance needs:
 - Use automation to reduce manual risk, not to remove accountability.
 - Use AI as an accelerator for exploration, drafting, validation planning, and troubleshooting.
 - Keep final ownership with the human operator, engineer, or reviewer.
+- Reconstruct evidence from real operational history rather than manually assembling disconnected fragments.
+- Make compliance continuous rather than only audit-driven.
 
 ## Technical Range
 

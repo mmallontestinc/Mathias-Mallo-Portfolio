@@ -1,7 +1,9 @@
 # NTest Kernel Compatibility Engine
 
 **Status:** Private/proprietary source code not included  
-**Format:** Public-safe summary
+**Format:** Public-safe summary  
+**Timeline:** 2026  
+**Current status:** Active validation framework
 
 ## Overview
 
@@ -12,6 +14,8 @@ The work focused on behavior mapping, validation gates, candidate lifecycle trac
 ## Problem
 
 Specialized hardware workflows were tied to legacy operating system assumptions. A safe migration required more than a simple driver rebuild: it required proof that trace acquisition, reader behavior, hardware access patterns, and production workflows remained compatible.
+
+The operational constraint had existed for more than a decade and limited modernization options for specialized OTDR hardware environments.
 
 ## Solution
 
@@ -25,6 +29,16 @@ The framework models compatibility through staged validation:
 - Promote only candidates that pass documented validation gates.
 
 See: [Kernel compatibility flow](../assets/diagrams/kernel-compatibility-flow.md)
+
+## Responsibilities
+
+- Validation framework architecture
+- Legacy oracle behavior mapping
+- Linux 24 candidate comparison workflow
+- Trace-processing test design
+- Candidate lifecycle and promotion rules
+- Documentation, handoff notes, and evidence registry structure
+- Regression and large-volume validation planning
 
 ## Technologies
 
@@ -42,7 +56,13 @@ See: [Kernel compatibility flow](../assets/diagrams/kernel-compatibility-flow.md
 - Established the validation framework that enabled migration from legacy Linux 14 virtualization environments toward native Linux 24 operation.
 - Created a repeatable validation model for specialized OTDR hardware workflows.
 - Validated candidate behavior through millions of trace-processing operations and regression workflows.
+- Reduced dependence on legacy virtualized infrastructure and extended the viability of existing hardware investments.
+- Removed a long-standing modernization blocker through evidence-driven acceptance criteria.
 - Preserved the boundary between accepted analysis and production promotion: human engineering ownership remains required for production decisions.
+
+## Why It Matters
+
+The business value was not only technical modernization. By reducing dependence on a fragile legacy virtualization path, the framework helped protect existing hardware investments, lower migration risk, and create a repeatable way to validate future compatibility work.
 
 ## Public-Safe Boundary
 
