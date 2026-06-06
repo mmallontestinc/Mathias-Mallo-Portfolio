@@ -1,0 +1,32 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Local notes and generated files
+*.log
+*.tmp
+*.bak
+dist/
+build/
+node_modules/
+
+# Sensitive local material
+.env
+.env.*
+secrets/
+private/
+local/
+*.key
+*.pem
+*.pfx
+*.sqlite
+*.db
+
+# Generated reports or screenshots that may contain private data
+generated-reports/
+reports/
+screenshots/
+evidence/
