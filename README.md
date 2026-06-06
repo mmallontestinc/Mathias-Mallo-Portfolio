@@ -1,10 +1,16 @@
 # Mathias Mallo -- Technical Portfolio
 
-**IT Operations | Security & Compliance Operations | AI-Augmented Engineering**
+**IT Operations | Security & Compliance Operations | Compliance Technology | AI-Assisted Engineering**
 
 This repository summarizes selected internal and proprietary projects in a sanitized format. The original codebases are private because they support real operational, compliance, and product-adjacent workflows.
 
 **Public-safe summary:** This portfolio contains public-safe summaries, architecture descriptions, and case studies. It does not include proprietary source code, customer data, credentials, internal infrastructure details, confidential audit evidence, private screenshots, or confidential NTest information.
+
+## Professional Positioning
+
+I operate at the intersection of IT operations, technical support, compliance operations, security, infrastructure, automation, and platform engineering. My work focuses on identifying operational bottlenecks, compliance gaps, technical limitations, and manual processes, then designing practical systems to eliminate those problems.
+
+Preferred role alignment: IT Operations, Security & Compliance Operations, Technical Operations, Compliance Technology, Platform Engineering, and Solutions Architecture.
 
 ## Ownership
 
@@ -35,10 +41,12 @@ Where AI-assisted engineering methodologies were used, all architectural decisio
 | Operations & Support | Security & Compliance | Platforms & Tooling | Engineering |
 | --- | --- | --- | --- |
 | IT Operations | SOC 2 Type 2 | Windows/Linux/macOS | Python |
-| Remote support | Compliance automation | Azure VMs | Java |
-| VPN onboarding | Evidence management | Hyper-V | Rust |
-| Device support | Audit reporting | VirtualBox | React/Tauri |
-| Documentation | Secure access workflows | GitHub/GitLab | AI-assisted engineering |
+| Technical support escalation | Compliance automation | Windows Server | Java |
+| Remote support | Evidence management | Ubuntu/RHEL | Bash |
+| VPN onboarding | Audit readiness | Azure VMs | Rust |
+| Device support | Vulnerability management | Hyper-V/VirtualBox | SQL |
+| Documentation | Secure access workflows | GitHub/GitLab/Office 365 | React/Tauri |
+| Cross-functional coordination | Control documentation | Microsoft Teams/Outlook | AI-assisted engineering |
 
 ## Portfolio Structure
 

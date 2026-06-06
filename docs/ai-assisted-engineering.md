@@ -7,6 +7,8 @@
 
 AI was used as an engineering accelerator, not as a replacement for ownership. The useful pattern was to combine domain knowledge, human validation, and iterative tooling with AI support for exploration, drafting, and review.
 
+The correct framing is AI-assisted engineering: AI supports the work, but it does not become the owner, approver, or autonomous decision-maker.
+
 ## How AI Was Used
 
 - Architecture exploration
@@ -27,6 +29,14 @@ Human review stayed central:
 - Proprietary context was not treated as public content.
 - Generated output was reviewed, corrected, and adapted to the real operational environment.
 - Production decisions remained human-owned.
+- Governance, validation, and security-sensitive decisions stayed under human review.
+
+## What I Avoid Claiming
+
+- AI expert
+- AI guru
+- Fully autonomous AI
+- AI-first development
 
 ## Practical Value
 

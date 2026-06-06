@@ -16,6 +16,8 @@ node_modules/
 # Sensitive local material
 .env
 .env.*
+OPERATOR_PROFILE.md
+OPERATOR_PROFILE.md.txt
 secrets/
 private/
 local/
