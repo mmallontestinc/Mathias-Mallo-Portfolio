@@ -33,6 +33,7 @@ The projects in this portfolio come from real operational and compliance needs:
 ## Working Principles
 
 - Start with the operational problem before choosing a tool.
+- Place a high value on reproducibility: problems should be reproducible, fixes should be testable, and operational decisions should be supported by evidence rather than assumptions.
 - Document the workflow so another person can understand and repeat it.
 - Treat security, privacy, and redaction as design requirements.
 - Use automation to reduce manual risk, not to remove accountability.

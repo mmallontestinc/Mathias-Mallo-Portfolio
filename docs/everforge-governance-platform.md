@@ -30,7 +30,7 @@ EverForge evolved through four stages:
 1. Audit workspace
 2. Compliance management platform
 3. Continuous governance platform
-4. Operational intelligence platform
+4. Governed operations platform
 
 The current direction is a Core platform with specialized modules, not one giant platform. ForgeGov, ForgeBOM, ForgeInfra, and ForgeServ are module surfaces that use the shared command/run/schedule/report/evidence model.
 

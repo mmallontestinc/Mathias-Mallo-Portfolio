@@ -2,14 +2,14 @@
 
 ```mermaid
 flowchart LR
-    graph["Microsoft Graph"] --> engine["Correlation Engine"]
-    teams["Teams"] --> engine
-    gitlab["GitLab"] --> engine
-    support["Support Records"] --> engine
-    sla["SLA Versions"] --> engine
-    releases["Release History"] --> engine
+    msgraph["Microsoft Graph"] --> corrEngine["Correlation Engine"]
+    teamsSource["Teams"] --> corrEngine
+    gitlabSource["GitLab"] --> corrEngine
+    supportRecords["Support Records"] --> corrEngine
+    slaVersions["SLA Versions"] --> corrEngine
+    releaseHistory["Release History"] --> corrEngine
 
-    engine --> timeline["Timeline Reconstruction"]
-    timeline --> package["Evidence Package"]
-    package --> report["Audit Report"]
+    corrEngine --> timeline["Timeline Reconstruction"]
+    timeline --> evidencePackage["Evidence Package"]
+    evidencePackage --> auditReport["Audit Report"]
 ```

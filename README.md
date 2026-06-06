@@ -31,6 +31,7 @@ Each project page is organized around five questions:
 ## Areas of Focus
 
 - IT Operations
+- Technical Support
 - Security & Compliance Operations
 - Validation Engineering
 - Operational Automation
@@ -46,7 +47,7 @@ Where AI-assisted engineering methodologies were used, all architectural decisio
 
 - Developed governed execution and evidence-management tooling utilized during successful SOC 2 Type 2 certification activities.
 - Established the validation framework that enabled migration from legacy Linux 14 virtualization environments toward native Linux 24 operation.
-- Validated specialized trace-processing workflows through millions of trace-processing operations.
+- Validated production-equivalent trace-processing workflows through millions of trace-processing operations.
 - Built multi-system evidence correlation across Microsoft Graph research, Teams context, GitLab activity, support records, SLA versions, release history, and affected customer environments.
 - Supported global operational contexts spanning North America, Europe, LATAM, Africa, and Asia.
 - Turned fragmented operational records into auditable narratives, reports, and repeatable evidence workflows.
