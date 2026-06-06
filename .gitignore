@@ -16,6 +16,7 @@ node_modules/
 # Sensitive local material
 .env
 .env.*
+.ai-context/
 OPERATOR_PROFILE.md
 OPERATOR_PROFILE.md.txt
 PROJECT_AND_OPERATOR_CONTEXT.md

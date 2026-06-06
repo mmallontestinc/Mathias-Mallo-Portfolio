@@ -1,13 +1,15 @@
 # Mathias Mallo -- Technical Portfolio
 
-**IT Operations | Security & Compliance Operations | AI-Augmented Engineering**
+**IT Operations | Security & Compliance Operations | Validation Engineering | Platform Engineering**
 
-This documentation site is a public-safe portfolio of selected private/proprietary projects. It focuses on architecture, ownership, operational impact, compliance thinking, and documentation quality.
+This documentation site is a public-safe portfolio of selected private/proprietary work. It focuses on operations, support, architecture, ownership, compliance thinking, and documentation quality.
 
 ## Start Here
 
-- [EverForge Governance & Operations Platform](everforge-governance-platform.md)
+- [EverForge Governed Operations Execution Platform](everforge-governance-platform.md)
 - [Compliance Intelligence & Evidence Correlation Engine](compliance-intelligence-engine.md)
+- [SOC 2 Operations & Evidence Management](soc2-operations-evidence-management.md)
+- [Environment Replication & Validation Engineering](environment-replication-validation.md)
 - [NTest Kernel Compatibility Engine](kernel-compatibility-engine.md)
 - [NTest SBOM Scanner](sbom-scanner.md)
 - [FiberWatch macOS Compatibility Validation](macos-compatibility-validation.md)
@@ -23,7 +25,7 @@ This documentation site is a public-safe portfolio of selected private/proprieta
 
 ## Case Studies
 
-- [Sardine IT Specialist Alignment](../case-studies/sardine-it-specialist-alignment.md)
+- [Operational Support & Environment Validation](../case-studies/operational-support-environment-validation.md)
 - [Compliance Automation Impact](../case-studies/compliance-automation-impact.md)
 
 ## Review Boundary

@@ -14,15 +14,18 @@ I am an operations-focused professional who learned software engineering to solv
 
 My path connects Uruguay, Spain, IT operations, technical support, compliance operations, and platform building. That background shaped the way I work: close to real users and real operational pressure, but with enough engineering depth to build internal tools when manual process becomes a bottleneck.
 
-My current work includes global technical support operations, customer support escalation, infrastructure troubleshooting, VPN onboarding, remote access support, compliance operations, audit evidence management, vulnerability management, security tooling, documentation, and cross-functional coordination.
+## Day-to-Day Operations
 
-Supported operational regions include North America, Europe, LATAM, Africa, and Asia.
+In parallel with platform development and compliance initiatives, my primary responsibilities include global technical support operations, customer support escalation, infrastructure troubleshooting, VPN onboarding, remote access support, access-related documentation, compliance operations, audit evidence management, vulnerability management, security tooling, environment replication, validation testing, and cross-functional coordination.
+
+Supported operational regions include North America, Europe, LATAM, Africa, and Asia. That global support context is central to how I approach tooling: systems need to be understandable, repeatable, and useful for distributed teams under real operational pressure.
 
 The projects in this portfolio come from real operational and compliance needs:
 
 - Evidence management for audit and certification work
 - Multi-system reconstruction of support and release history
 - Secure access and documentation workflows
+- Environment replication for issue reproduction, upgrade validation, and deployment risk reduction
 - Linux compatibility validation for specialized hardware
 - SBOM and vulnerability visibility for internal software review
 - AI-assisted engineering workflows with human validation and governance
@@ -46,7 +49,9 @@ The projects in this portfolio come from real operational and compliance needs:
 | Virtualization | Hyper-V, VirtualBox |
 | Cloud | Microsoft Azure Virtual Machines |
 | Collaboration | Microsoft Teams, GitHub, GitLab, Outlook, Office 365 |
+| Validation environments | Java 8, Java 21, Java 25, Maven, Ant |
 | Programming | Java, Python, Bash, Rust, SQL |
+| Endpoint operations | Hardware provisioning, workstation setup, OS installation, disk cloning, software deployment |
 | Apple ecosystem | macOS, iOS, iPadOS, watchOS troubleshooting and support |
 
 ## What This Portfolio Shows
