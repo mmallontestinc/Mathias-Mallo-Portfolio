@@ -23,6 +23,8 @@ Operational issues are often hard to resolve when they are only described throug
 | Java runtimes | Java 8, Java 21, Java 25 |
 | Build tooling | Maven, Ant |
 | Virtualization | Hyper-V, VirtualBox |
+| Cloud administration | Microsoft Azure Portal, Azure Virtual Machines |
+| Endpoint compliance | Heimdal Security monitoring, patch management, vulnerability visibility |
 | Endpoint operations | Workstation setup, OS installation, storage replacement, disk cloning, software deployment |
 
 ## Responsibilities
@@ -34,6 +36,8 @@ Operational issues are often hard to resolve when they are only described throug
 - Build verification
 - Root-cause analysis
 - Deployment risk reduction
+- Endpoint compliance and patch-management validation through Heimdal Security
+- Azure resource and virtual machine administration support
 - Documenting findings and validation steps for support and engineering review
 
 ## Why It Matters

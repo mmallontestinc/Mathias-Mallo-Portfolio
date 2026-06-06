@@ -16,7 +16,7 @@ My path connects Uruguay, Spain, IT operations, technical support, compliance op
 
 ## Day-to-Day Operations
 
-In parallel with platform development and compliance initiatives, my primary responsibilities include global technical support operations, customer support escalation, infrastructure troubleshooting, VPN onboarding, remote access support, access-related documentation, compliance operations, audit evidence management, vulnerability management, security tooling, environment replication, validation testing, and cross-functional coordination.
+In parallel with platform development and compliance initiatives, my primary responsibilities include global technical support operations, customer support escalation, infrastructure troubleshooting, VPN onboarding, remote access support, access-related documentation, endpoint compliance, patch-management operations, cloud administration, compliance operations, audit evidence management, vulnerability management, security tooling, environment replication, validation testing, and cross-functional coordination.
 
 Supported operational regions include North America, Europe, LATAM, Africa, and Asia. That global support context is central to how I approach tooling: systems need to be understandable, repeatable, and useful for distributed teams under real operational pressure.
 
@@ -48,7 +48,8 @@ The projects in this portfolio come from real operational and compliance needs:
 | --- | --- |
 | Operating systems | Windows 10/11, Windows Server, Linux, Ubuntu, RHEL, macOS |
 | Virtualization | Hyper-V, VirtualBox |
-| Cloud | Microsoft Azure Virtual Machines |
+| Cloud administration | Microsoft Azure Portal, Azure Virtual Machines, operational workflows |
+| Endpoint compliance | Heimdal Security device monitoring, patch management, vulnerability visibility, policy enforcement |
 | Collaboration | Microsoft Teams, GitHub, GitLab, Outlook, Office 365 |
 | Validation environments | Java 8, Java 21, Java 25, Maven, Ant |
 | Programming | Java, Python, Bash, Rust, SQL |

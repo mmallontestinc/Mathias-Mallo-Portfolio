@@ -14,7 +14,7 @@ I am an operations-focused professional who learned software engineering to solv
 
 ## Global Operations
 
-My day-to-day work includes supporting globally distributed users and operational contexts across North America, Europe, LATAM, Africa, and Asia. That work includes customer escalations, VPN onboarding, remote access support, operational troubleshooting, documentation, infrastructure support, compliance operations, and cross-functional coordination.
+My day-to-day work includes supporting globally distributed users and operational contexts across North America, Europe, LATAM, Africa, and Asia. That work includes customer escalations, VPN onboarding, remote access support, operational troubleshooting, documentation, infrastructure support, endpoint compliance, cloud administration, compliance operations, and cross-functional coordination.
 
 I also reproduce customer environments for defect investigation, upgrade validation, compatibility testing, root-cause analysis, and deployment risk reduction.
 
@@ -52,6 +52,8 @@ Where AI-assisted engineering methodologies were used, all architectural decisio
 - Supported global operational contexts spanning North America, Europe, LATAM, Africa, and Asia.
 - Turned fragmented operational records into auditable narratives, reports, and repeatable evidence workflows.
 - Replicated customer-like Windows, Linux, Java, Maven, and Ant environments for troubleshooting, compatibility validation, and deployment-risk reduction.
+- Supported endpoint compliance and patch-management operations through Heimdal Security, including device monitoring, vulnerability visibility, policy enforcement, and compliance maintenance.
+- Administered Microsoft Azure resources, virtual machines, operational workflows, and infrastructure support for organizational systems.
 
 ## Featured Projects
 
@@ -73,7 +75,8 @@ Where AI-assisted engineering methodologies were used, all architectural decisio
 | Technical support escalation | Compliance automation | Windows Server | Java |
 | Remote support | Evidence management | Ubuntu/RHEL | Bash |
 | VPN onboarding | Audit readiness | Azure VMs | Rust |
-| Environment replication | Vulnerability management | Hyper-V/VirtualBox | SQL |
+| Environment replication | Vulnerability management | Microsoft Azure Portal | SQL |
+| Endpoint compliance | Patch management | Heimdal Security | Policy enforcement |
 | Device and endpoint support | Deployment risk reduction | Java 8/21/25, Maven, Ant | Validation planning |
 | Documentation | Secure access workflows | GitHub/GitLab/Office 365 | React/Tauri |
 | Cross-functional coordination | Control documentation | Microsoft Teams/Outlook | AI-assisted engineering |

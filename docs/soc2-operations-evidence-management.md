@@ -7,7 +7,7 @@
 
 ## Overview
 
-This page describes operational SOC 2 Type 2 support work, not a standalone software product. The work centered on audit readiness, evidence management, policy support, vulnerability visibility, control documentation, and coordination across operational and technical teams.
+This page describes operational SOC 2 Type 2 support work, not a standalone software product. The work centered on audit readiness, evidence management, policy support, vulnerability visibility, endpoint compliance, cloud administration, control documentation, and coordination across operational and technical teams.
 
 ## Problem
 
@@ -23,6 +23,8 @@ SOC 2 operations are not only about passing an audit. They require teams to show
 - Evidence lifecycle and review workflow support
 - Control documentation and policy support
 - Vulnerability management visibility
+- Endpoint compliance and patch-management operations through Heimdal Security
+- Microsoft Azure Portal administration for cloud resources, virtual machines, and operational workflows
 - Support and operational record reconstruction
 - Reporting and generated-evidence organization
 - Coordination across support, engineering, and audit-facing workflows
@@ -32,6 +34,8 @@ SOC 2 operations are not only about passing an audit. They require teams to show
 
 - Turned fragmented operational records into auditable narratives.
 - Helped connect support activity, release context, access evidence, and vulnerability visibility.
+- Supported endpoint compliance visibility and patch-management workflows.
+- Supported Azure-hosted operational resources and virtual machine administration.
 - Maintained documentation so evidence could be understood and reused safely.
 - Supported successful SOC 2 Type 2 certification activities without exposing confidential evidence publicly.
 
