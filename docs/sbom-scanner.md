@@ -1,6 +1,6 @@
 # NTest SBOM Scanner
 
-**Status:** Private/proprietary source code not included  
+**Status:** Sanitized public summary  
 **Format:** Public-safe summary  
 **Timeline:** 2025-2026  
 **Current status:** Internal tool; original JavaFX implementation and modern Tauri/Rust direction

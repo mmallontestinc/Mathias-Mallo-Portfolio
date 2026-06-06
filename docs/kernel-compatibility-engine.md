@@ -1,6 +1,6 @@
 # NTest Kernel Compatibility Engine
 
-**Status:** Private/proprietary source code not included  
+**Status:** Sanitized public summary  
 **Format:** Public-safe summary  
 **Timeline:** 2026  
 **Current status:** Active validation framework

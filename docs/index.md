@@ -30,4 +30,4 @@ This documentation site is a public-safe portfolio of selected private/proprieta
 
 ## Review Boundary
 
-Private/proprietary source code not included. All architecture descriptions are sanitized architecture overviews for public review.
+All architecture descriptions are sanitized overviews for public review.

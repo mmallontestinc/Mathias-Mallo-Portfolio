@@ -1,13 +1,13 @@
 # FiberWatch macOS Compatibility Validation
 
-**Status:** Private/proprietary source code not included  
+**Status:** Sanitized public summary  
 **Format:** Honest capability summary  
 **Timeline:** 2025-2026  
 **Current status:** Practical validation and support experience
 
 ## Overview
 
-This work reflects practical Apple ecosystem experience and participation in macOS compatibility validation for FiberWatch-related workflows. It does not claim enterprise JAMF, BetterCloud, Rippling, or Apple MDM administration experience.
+This page focuses on practical Apple ecosystem support and compatibility validation rather than enterprise MDM administration.
 
 ## Relevant Experience
 

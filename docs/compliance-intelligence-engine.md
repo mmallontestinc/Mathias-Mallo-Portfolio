@@ -1,6 +1,6 @@
 # Compliance Intelligence & Evidence Correlation Engine
 
-**Status:** Private/proprietary source code not included  
+**Status:** Sanitized public summary  
 **Format:** Sanitized architecture overview  
 **Timeline:** 2025-present  
 **Current status:** Active evidence workflow

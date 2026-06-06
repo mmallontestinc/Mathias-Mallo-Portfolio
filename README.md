@@ -89,10 +89,7 @@ Where AI-assisted engineering methodologies were used, all architectural decisio
 ## Contact
 
 - Email: [mathias.mallo@icloud.com](mailto:mathias.mallo@icloud.com)
-- GitHub: [github.com/mmallontestinc](https://github.com/mmallontestinc/Mathias-Mallo-Portfolio)
+- LinkedIn: [linkedin.com/in/mathias-german-mallo-85488223a](https://www.linkedin.com/in/mathias-germ%C3%A1n-mallo-85488223a/)
+- GitHub: [github.com/mmallontestinc](https://github.com/mmallontestinc)
 - Website / Platform Reference: [everforge.dev](https://everforge.dev/)
 - Location: Spain / Remote
-
-## Public Review Boundary
-
-Private/proprietary source code is not included. Architecture is generalized for public review, and all sensitive operational details have been removed or abstracted.

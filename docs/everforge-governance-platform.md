@@ -1,6 +1,6 @@
 # EverForge Governed Operations Execution Platform
 
-**Status:** Private/proprietary source code not included  
+**Status:** Sanitized public summary  
 **Format:** Public-safe summary  
 **Role:** Solo-developed governed execution platform  
 **Timeline:** 2025-present  
@@ -9,6 +9,13 @@
 ## One-Sentence Summary
 
 EverForge is a governed execution platform that enables compliance, operational automation, infrastructure workflows, evidence management, software supply-chain assessment, and AI-assisted operations through a Core-owned command, execution, and evidence model.
+
+## Quick Read
+
+- Built as a private/internal governed operations platform.
+- Core owns truth, workers execute bounded tasks, and evidence becomes canonical only after validation.
+- Supports compliance, reporting, SBOM workflows, infrastructure operations, and AI-assisted proposals.
+- Developed to solve real audit, reporting, and operational governance problems.
 
 ## Overview
 
