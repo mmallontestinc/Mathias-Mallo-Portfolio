@@ -86,7 +86,7 @@ Where AI-assisted engineering methodologies were used, all architectural decisio
 
 - Email: [mathias.mallo@icloud.com](mailto:mathias.mallo@icloud.com)
 - GitHub: [github.com/mmallontestinc](https://github.com/mmallontestinc)
-- Website: [mmalloitconsultant.com](https://mmalloitconsultant.com)
+- Website / Platform Reference: [everforge.dev](https://everforge.dev/)
 - Location: Spain / Remote
 
 ## Public Review Boundary
