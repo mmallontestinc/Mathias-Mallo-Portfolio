@@ -14,7 +14,7 @@ My recent work maps strongly to remote-first IT support, secure access workflows
 | Remote-first IT support | Supported troubleshooting, onboarding, compatibility validation, and cross-platform user workflows. |
 | Secure user access | Worked around VPN onboarding, access evidence, account records, and audit-supporting access documentation. |
 | Documentation | Produced structured project docs, handoff notes, templates, runbooks, evidence records, and architecture summaries. |
-| Compliance mindset | Supported successful SOC 2 Type 2 audit activities and built evidence management workflows. |
+| Compliance mindset | Developed governance and evidence-management tooling utilized during successful SOC 2 Type 2 certification activities. |
 | Device support | Worked across Windows, Linux, macOS, iOS, iPadOS, and watchOS contexts. |
 | Ownership | Solo-developed internal tools from problem discovery through implementation and documentation. |
 | Process improvement | Converted fragmented support and audit work into repeatable workflows and reportable artifacts. |

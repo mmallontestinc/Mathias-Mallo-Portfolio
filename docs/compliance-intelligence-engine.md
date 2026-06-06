@@ -48,8 +48,9 @@ See: [Evidence correlation flow](../assets/diagrams/evidence-correlation-flow.md
 
 - Reduced manual evidence reconstruction effort.
 - Improved audit narrative consistency.
-- Supported successful SOC 2 Type 2 audit activities.
+- Developed evidence correlation workflows utilized during successful SOC 2 Type 2 certification activities.
 - Made fragmented operational history easier to review and explain.
+- Correlated evidence across multiple system categories, including communications, support records, commits, release history, SLA versions, and affected customer environments.
 
 ## Privacy and Redaction Safeguards
 

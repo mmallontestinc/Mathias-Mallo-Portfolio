@@ -12,6 +12,7 @@ This documentation site is a public-safe portfolio of selected private/proprieta
 - [NTest SBOM Scanner](sbom-scanner.md)
 - [FiberWatch macOS Compatibility Validation](macos-compatibility-validation.md)
 - [AI-Assisted Engineering](ai-assisted-engineering.md)
+- [About Me](about-me.md)
 - [Privacy and Redaction](privacy-and-redaction.md)
 
 ## Diagrams

@@ -8,7 +8,7 @@
 
 EverForge began as an audit workspace and evolved into a continuous compliance and operations platform. The system was designed around a governed execution core: the core API owns state and validation, workers perform bounded tasks, and evidence is promoted only through controlled workflows.
 
-The platform includes an operator console, background services, scheduled report generation, evidence lifecycle management, compliance workflows, and AI-assisted operational workflows. It was built to support real audit and operations needs while keeping human approval central.
+The platform includes an operator console, background services, scheduled report generation, evidence lifecycle management, compliance workflows, and AI-assisted operational workflows. I conceived, architected, and developed the platform to support real audit and operations needs while keeping human approval central.
 
 ## Architecture
 
@@ -45,8 +45,8 @@ EverForge is designed around a clear execution boundary:
 
 ## Impact
 
-- Supported successful SOC 2 Type 2 audit activities.
-- Helped move audit work from ad hoc collection toward repeatable evidence operations.
+- Developed governance and evidence-management tooling utilized during successful SOC 2 Type 2 certification activities.
+- Moved audit work from ad hoc collection toward repeatable evidence operations.
 - Created a foundation for continuous compliance reporting.
 - Improved documentation, evidence lifecycle visibility, and operational traceability.
 

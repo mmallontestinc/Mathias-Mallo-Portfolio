@@ -7,7 +7,7 @@
 
 The kernel compatibility engine is a Linux compatibility validation framework for specialized OTDR hardware workflows. It was created to help move a long-standing dependency on legacy Linux 14 virtualization environments toward Linux 24 native deployments.
 
-The work focused on behavior mapping, validation gates, candidate lifecycle tracking, and controlled comparison between legacy oracle behavior and native Linux 24 candidates.
+The work focused on behavior mapping, validation gates, candidate lifecycle tracking, and controlled comparison between legacy oracle behavior and native Linux 24 candidates. I created the framework that enabled this migration work to become repeatable, measurable, and reviewable.
 
 ## Problem
 
@@ -38,9 +38,10 @@ See: [Kernel compatibility flow](../assets/diagrams/kernel-compatibility-flow.md
 
 ## Operational Impact
 
-- Helped replace an aging Linux 14 virtualization dependency with a safer Linux 24 native migration path.
+- Solved a decade-old operational constraint by creating a repeatable compatibility-validation framework for Linux 24 migration.
+- Established the validation framework that enabled migration from legacy Linux 14 virtualization environments toward native Linux 24 operation.
 - Created a repeatable validation model for specialized OTDR hardware workflows.
-- Validated candidate behavior through large-volume trace-processing and regression workflows.
+- Validated candidate behavior through millions of trace-processing operations and regression workflows.
 - Preserved the boundary between accepted analysis and production promotion: human engineering ownership remains required for production decisions.
 
 ## Public-Safe Boundary

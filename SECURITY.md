@@ -6,8 +6,8 @@ This repository is a public-safe technical portfolio. It intentionally excludes 
 
 If you notice content that may expose sensitive information, please contact:
 
-- Email: `TODO: add professional email`
-- LinkedIn: `TODO: add LinkedIn profile URL`
+- Email: [mathias.mallo@icloud.com](mailto:mathias.mallo@icloud.com)
+- GitHub: [github.com/mmallontestinc](https://github.com/mmallontestinc)
 
 ## Scope
 
