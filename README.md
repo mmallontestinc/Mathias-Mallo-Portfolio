@@ -54,12 +54,14 @@ Where AI-assisted engineering methodologies were used, all architectural decisio
 - Replicated customer-like Windows, Linux, Java, Maven, and Ant environments for troubleshooting, compatibility validation, and deployment-risk reduction.
 - Supported endpoint compliance and patch-management operations through Heimdal Security, including device monitoring, vulnerability visibility, policy enforcement, and compliance maintenance.
 - Administered Microsoft Azure resources, virtual machines, operational workflows, and infrastructure support for organizational systems.
+- Designed a self-hosted secure connectivity platform for customer-owned remote access, endpoint discovery, lifecycle validation, and operational diagnostics.
 
 ## Featured Projects
 
 | Project | Timeline / Status | Problem | Solution | Impact |
 | --- | --- | --- | --- | --- |
 | [EverForge Governed Operations Execution Platform](docs/everforge-governance-platform.md) | 2025-present / Active | Compliance, reporting, infrastructure, and operational workflows needed a governed execution model rather than another disconnected tool. | Built a Core-owned command/run/evidence platform where agents propose, Core validates, the engine enforces, and workers execute bounded tasks. | Created a governed execution foundation used for compliance, evidence management, reporting, software supply-chain assessment, and operational automation workflows. |
+| [ForgeMesh Secure Connectivity Platform](docs/forgemesh-secure-connectivity-platform.md) | 2026-present / Active MVP validation | Distributed users, customer environments, industrial systems, and edge devices needed secure connectivity without mandatory SaaS control planes, router changes, or manual network configuration. | Built a self-hosted control-plane and client lifecycle model for device enrollment, approval, authorized configuration, endpoint discovery, diagnostics, and validation-first rollout. | Reduces remote-access complexity while preserving customer-owned infrastructure, network visibility, and operational control. |
 | [Compliance Intelligence & Evidence Correlation Engine](docs/compliance-intelligence-engine.md) | 2025-present / Active | Audit evidence was fragmented across support records, communications, releases, access records, and customer-impact timelines. | Designed a correlation workflow that reconstructs event history and prepares audit-ready evidence packages from multiple systems. | Enabled reconstruction of audit timelines that previously required extensive manual investigation across multiple enterprise systems. |
 | [SOC 2 Operations & Evidence Management](docs/soc2-operations-evidence-management.md) | 2025-present / Active operations work | Audit readiness required consistent evidence handling, documentation, control support, and vulnerability visibility. | Managed evidence workflows, reporting, documentation, policy support, and cross-system audit preparation. | Contributed to successful certification efforts while improving repeatability and operational readiness. |
 | [Environment Replication & Validation Engineering](docs/environment-replication-validation.md) | Ongoing / Operational practice | Customer-reported issues and upgrade paths required reproducible environments before fixes or deployments could be trusted. | Maintained replicated Windows, Linux, Java, Maven, Ant, and virtualized environments for troubleshooting and validation. | Reduced deployment risk by reproducing issues, validating assumptions, and making support findings more actionable. |
@@ -75,6 +77,7 @@ Where AI-assisted engineering methodologies were used, all architectural decisio
 | Technical support escalation | Compliance automation | Windows Server | Java |
 | Remote support | Evidence management | Ubuntu/RHEL | Bash |
 | VPN onboarding | Audit readiness | Azure VMs | Rust |
+| Connectivity validation | Secure remote access workflows | Self-hosted control services | Windows service lifecycle |
 | Environment replication | Vulnerability management | Microsoft Azure Portal | SQL |
 | Endpoint compliance | Patch management | Heimdal Security | Policy enforcement |
 | Device and endpoint support | Deployment risk reduction | Java 8/21/25, Maven, Ant | Validation planning |
