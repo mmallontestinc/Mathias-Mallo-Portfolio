@@ -21,7 +21,7 @@ ForgeMesh is a self-hosted secure connectivity platform designed to simplify rem
 
 ## Overview
 
-ForgeMesh originated from real operational challenges around remote infrastructure, customer environments, industrial monitoring systems, and geographically distributed devices. In those environments, traditional VPN deployments, router-level changes, port forwarding, static IP assumptions, and third-party networking services can create friction for support and operations teams.
+ForgeMesh originated from operational requirements around remote support, industrial monitoring systems, distributed infrastructure, customer-owned environments, and geographically distributed devices. In those contexts, secure access and visibility were as important as connectivity itself. Traditional VPN deployments, router-level changes, port forwarding, static IP assumptions, and third-party networking services can create friction for support and operations teams.
 
 The product direction is to provide a secure connectivity layer that organizations can host and control themselves. ForgeMesh aims to reduce the operational burden of connecting people, systems, and infrastructure without requiring customers to surrender ownership of their control plane, topology data, audit records, or security policies.
 
@@ -47,7 +47,13 @@ The intent is not to replace every networking product. The goal is to provide a 
 | Security by design | Device approval, hashed tokens, controlled authorization, secure communication paths, and audit events are core behaviors rather than later additions. |
 | Validation-driven development | Connectivity behavior is tested through repeatable validation flows before being treated as production-ready capability. |
 | Connectivity first | The platform is measured by whether it reduces friction connecting people, systems, and infrastructure. |
-| Minimal network disruption | Ordinary mesh clients should not take over DNS, default routes, gateways, or endpoint security behavior by default. |
+| Operational safety | Ordinary mesh clients should not take ownership of DNS resolution, default routes, gateways, or endpoint-security behavior unless explicitly authorized. |
+
+## Operational Safety
+
+ForgeMesh is designed to minimize disruption to existing environments. Ordinary mesh clients should not take ownership of DNS resolution, default routes, gateways, or endpoint-security behavior unless that behavior is explicitly authorized.
+
+Secure access should improve supportability without silently changing how the customer's existing environment resolves names, routes traffic, or enforces endpoint security.
 
 ## Current Product Shape
 
